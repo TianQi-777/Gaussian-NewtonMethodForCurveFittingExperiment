@@ -7,7 +7,7 @@ This demo is curve fitting by G-N method,and it can help us better understand th
 ![](https://github.com/TianQi-777/Gaussian-NewtonMethodForCurveFittingExperiment/blob/master/Images/curveFitting1.png)
 </div>
 
-# Additional Prerequisites for this demo  
+## Additional Prerequisites for this demo  
 **Eigen3**  
 Download and install instructions can be found at: http://eigen.tuxfamily.org.  
 
