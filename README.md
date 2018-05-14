@@ -4,7 +4,7 @@ This demo is curve fitting by G-N method,and it can help us better understand th
 ## Mathematical theory
 <div align=center>  
   
-![](https://github.com/TianQi-777/Gaussian-NewtonMethodForCurveFittingExperiment/blob/master/Images/CurveFitting.png)
+![](https://github.com/TianQi-777/Gaussian-NewtonMethodForCurveFittingExperiment/blob/master/Images/curveFitting1.png)
 </div>
 
 # Additional Prerequisites for this demo  
